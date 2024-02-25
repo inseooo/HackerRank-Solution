@@ -1,5 +1,7 @@
 /*
+URL : 
 https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+
 Revising the Select Query I
 MySQL
 
